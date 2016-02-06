@@ -22,6 +22,7 @@
      <p>This a great lecture, right?</p>
      
      <h1>Heading</h1>
+     <h2>Heading</h2>
      
      <h4>Heading h4</h4>
     
